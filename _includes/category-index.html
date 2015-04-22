@@ -1,19 +1,23 @@
 {% for page in site.pages %}{% if page.category == include.section %}{% if page.layout == 'category' %}{% assign cat = page %}{% endif %}{% endif %}{% endfor %}
 
-<div class='article-list'>
-  {% if include.header %}
-  <h3>
-    <a href="{{base}}{{ cat.url }}">{{ cat.category }}</a>
-  </h3>
-  {% endif %}
-
-  {% for page in site.pages %}
-    {% if page.section == include.section %}
-      <li>
-        <a href="{{ base }}{{ page.url }}">
-          <span class='title'>{{ page.title }}</span>
-        </a>
-      </li>
+<div class='article-format'>
+  <div class='faq-listing'>
+    {% if include.header %}
+    <h3>
+      <a href="{{base}}{{ cat.url }}">{{ cat.category }}</a>
+    </h3>
     {% endif %}
-  {% endfor %}
+
+    <ul>
+      {% for page in site.pages %}
+        {% if page.section == include.section %}
+          <li>
+            <a href="{{ base }}{{ page.url }}">
+              <span class='title'>{{ page.title }}</span>
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
 </div>

@@ -1,0 +1,53 @@
+/**
+ * Question box:
+ * `.question-box` - used in FAQ articles.
+ *
+ *     $example
+ *     .question-box
+ *       | For people buying tickets, can they pay in gold boulions?
+ */
+
+.question-box {
+  background: mix($darkblue, white, 2%);
+  color: mix($darkblue, $black, 10%);
+  border-radius: 2px;
+  border: solid 2px mix($teal, white, 50%);
+  padding: $pad;
+  position: relative;
+  font-size: 1.1em;
+
+  &:before {
+    @include ion-icon('ios-help-outline');
+    display: none;
+  }
+
+  strong {
+    @include antialias;
+    color: $darkblue;
+    display: block;
+  }
+
+  > *:first-child {
+    margin-top: 0;
+  }
+
+  > *:last-child {
+    margin-bottom: 0;
+  }
+    
+  @media (min-width: 768px) {
+    padding-left: 80px;
+    padding-right: 30px;
+    min-height: 3em;
+
+    &:before {
+      display: block;
+      position: absolute;
+      left: 23px;
+      top: 23px;
+      font-size: 48px;
+      color: mix($teal, white, 50%);
+      float: left;
+    }
+  }
+}

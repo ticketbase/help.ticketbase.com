@@ -1,5 +1,26 @@
 ---
 ---
-<h1>{{ page.category }}</h1>
+{% include head.html %}
+{% include body.html %}
 
-{% include category-index.html section=page.category %}
+<div class="container">
+  <div class="dev-portal-layout">
+
+    <div class="menu">{% include category-sidebar.html %}</div>
+
+    <div class="content">
+      <div class="panel">
+        <div class="page-heading -ruled">
+          <h1>{{ page.category }}</h1>
+        </div>
+        <div class="article-format">
+
+          {% include category-index.html section=page.category %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include end.html %}

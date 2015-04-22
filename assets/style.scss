@@ -1,16 +1,13 @@
 ---
 ---
-@import 'normalize';
+$black:    #505057; // Text black
+$blacker:  #3a3a3a; // Heading black
+$darkblue: #065F88;
+$teal:     #3ebaa0;
+$pad:      15px;
 
-html {
-  line-height: 1.6em;
-  padding: 70px;
-}
+@import 'utils/ionicons';
+@import 'utils/antialias';
 
-.article-list {
-  h3 a,
-  h3 a:visited {
-    text-decoration: none;
-    color: #333;
-  }
-}
+@import 'components/question-box';
+@import 'components/article-format';

@@ -5,10 +5,26 @@ type: website
 {% include head.html %}
 {% include body.html %}
 
-{% include category-index.html header=true section='Payments' %}
-{% include category-index.html header=true section='General' %}
-{% include category-index.html header=true section='Accounts' %}
-{% include category-index.html header=true section='Orders' %}
-{% include category-index.html header=true section='Events' %}
+<div class="container">
+  <div class="dev-portal-layout">
+
+    <div class="menu">{% include category-sidebar.html %}</div>
+
+    <div class="content">
+      <div class="panel">
+        <div class="page-heading -ruled">
+          <h1>Help Center</h1>
+        </div>
+        <div class="article-format">
+          {% include category-index.html header=true section='Payments' %}
+          {% include category-index.html header=true section='General' %}
+          {% include category-index.html header=true section='Accounts' %}
+          {% include category-index.html header=true section='Orders' %}
+          {% include category-index.html header=true section='Events' %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% include end.html %}

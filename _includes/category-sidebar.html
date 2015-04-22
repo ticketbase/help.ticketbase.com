@@ -1,0 +1,15 @@
+<div class="panel dev-portal-menu">
+  <h4>Help Center</h4>
+  <ul>
+    <li>
+      <a href="{{ base }}">Home</a>
+    </li>
+
+    {% for page in site.pages %}
+    {% if page.layout == 'category' %}
+      <li>
+        <a href="{{ base }}{{ page.url }}">{{ page.category }}</a>
+      </li>
+    {% endif %}{% endfor %}
+  </ul>
+</div>

@@ -4,14 +4,30 @@ type: article
 {% include head.html %}
 {% include body.html %}
 
-<h1>{{ page.title }}</h1>
+<div class="container">
+  <div class="dev-portal-layout">
 
-{% if page.question %}
-  <div class='question-box'>
-    <strong>{{ page.question }}</strong>
+    <div class="menu">{% include category-sidebar.html %}</div>
+
+    <div class="content">
+      <div class="panel">
+        <div class="page-heading -ruled">
+          <h1>{{ page.title }}</h1>
+        </div>
+        <div class="article-format">
+
+          {% if page.question %}
+            <div class='question-box'>
+              <strong>Question</strong>
+              {{ page.question }}
+            </div>
+          {% endif %}
+          {{ content }}
+
+        </div>
+      </div>
+    </div>
   </div>
-{% endif %}
-
-{{ content }}
+</div>
 
 {% include end.html %}
