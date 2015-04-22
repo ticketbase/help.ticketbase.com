@@ -1,0 +1,19 @@
+@mixin lite-type {
+  @include antialias;
+  font-weight: 300;
+  font-style: normal;
+  font-family: 'aktiv-grotesk-std', 'proxima-nova', sans-serif;
+}
+
+@mixin caps-type {
+  @include antialias;
+  font-weight: 700;
+  font-style: normal;
+  font-family: 'proxima-nova', sans-serif;
+  text-transform: uppercase;
+}
+
+@mixin monospace-type {
+  font-family: menlo, monaco, monospace;
+  line-height: 1.3em;
+}

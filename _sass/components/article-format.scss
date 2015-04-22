@@ -1,2 +1,152 @@
+/**
+ * Article format:
+ * `.article-format` - great for FAQ, helpdesk and API articles. Use this with `markdown()` (helper) output.
+ *
+ *     @example.padded
+ *     .article-format
+ *       p
+ *         | We will be bland tomorrow. Once, we weren't juicy or colorless apart from anything, then the long badger wasn't regularly you. She shouldn't change a coffee to the orange note. A gleeful thing is driving someone to an omnipotent government now and it has her today.
+ *       h2 Heading 2
+ *       p
+ *         | He was not Armenian and broken since a dawn of a new age, but the house wasn't the optional aviator off the English image. It will be cool, but twice, the goose will be fresh.
+ *       h3 Heading 3
+ *       p
+ *         | It will be often the calling of the wild. Over nothing, a weak thing isn't bland or the piece of my mind, pieces of my mind now. The wheel of fortune will be the marching order tomorrow. He was not regularly the enemy of the state. The blink of an eye wasn't smooth. The tree did follow.
+ */
+
 .article-format {
+  & {
+    line-height: 1.6;
+    font-size: 1.15em;
+  }
+
+  >div, ul, ol, p {
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+  }
+
+  h2, h3, h4, h5, h6 {
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+  }
+
+  h2 {
+    @include lite-type;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    color: $darkblue;
+    @include antialias;
+  }
+
+  h3 {
+    margin-top: 2.5em;
+    border-bottom: solid 2px $line;
+    color: darken($gray, 25%);
+    font-weight: bold;
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    @include antialias;
+
+    margin-right: -60px;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 60px;
+  }
+
+  pre {
+    background: fade($clouds, 20%);
+    box-shadow: inset 1px 1px rgba(0, 0, 0, 0.05);
+    overflow-y: auto;
+    border-radius: 2px;
+    border: 0;
+    margin: 2.5em -30px;
+    padding: 30px 50px;
+    line-height: 1.4;
+  }
+
+  pre > code {
+    display: inline;
+    background: transparent;
+    color: $black;
+  }
+
+  code {
+    color: $blacker;
+    background: transparent;
+    padding: 0;
+  }
+
+  table {
+    width: 100%;
+    margin: 2.5em 0;
+    border-bottom: solid 1px $line;
+    border-top: solid 1px $line;
+    font-size: 0.9em;
+  }
+
+  table > *:first-child > td,
+  table > *:first-child > th {
+    border-top: 0;
+  }
+
+  th {
+    @include antialias;
+    font-weight: bold;
+    color: $gray;
+  }
+
+  td, th {
+    padding: 7px 15px;
+    border-top: solid 1px fade($line, 50%);
+
+    &:first-child {
+      padding-left: 0;
+      text-align: left;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+
+  // List items
+  ul, ol {
+    margin-left: 1.5em;
+  }
+
+  ul {
+    & {
+      list-style: none;
+    }
+
+    > li {
+      position: relative;
+    }
+
+    > li:before {
+      content: '';
+      display: block;
+      position: absolute;
+      left: -1.4em;
+      top: 0;
+      margin-top: 0.7em;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      border: solid 2px $gray;
+
+      @media (min-width: 768px) {
+        width: 3px;
+        height: 3px;
+      }
+    }
+  }
+
+  img {
+    border: solid 3px #eee;
+    background: white;
+    padding: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
 }
