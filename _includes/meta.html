@@ -22,6 +22,9 @@
 {% if page.description %}
 <meta content="{{ page.description }}" name="description">
 <meta content="{{ page.description }}" property="og:description">
+{% elsif page.question %}
+<meta content="{{ page.question }}" name="description">
+<meta content="{{ page.question }}" property="og:description">
 {% endif %}
 
 {%comment%}<!-- canonical URL -->{%endcomment%}
@@ -70,7 +73,9 @@
 {% endif %}
 
 {%comment%}<!-- tags -->{%endcomment%}
-{% if page.tags[0] %}
+{% if page.section %}
+<meta content='{{ page.section }}' property='article:section'>
+{% elsif page.tags[0] %}
 <meta content='{{ page.tags[0] }}' property='article:section'>
 {% endif %}
 {% if page.tags %}
