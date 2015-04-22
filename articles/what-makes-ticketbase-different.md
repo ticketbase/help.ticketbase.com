@@ -1,10 +1,8 @@
 ---
 title: What makes Ticketbase different
 section: General
+question: "What makes Ticketbase different from other ticketing platforms?"
 ---
-
-**Question:** What makes Ticketbase different from other ticketing platforms?
-{:.question-box}
 
 A number of reasons:
 

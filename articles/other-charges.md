@@ -3,10 +3,8 @@ title: Other charges
 section: Payments
 related:
 - ticket-fees
+question: "Does Ticketbase charge anything else, apart from the small, [flat fee] per ticket?"
 ---
-
-**Question:** Does Ticketbase charge anything else, apart from the small, [flat fee] per ticket?
-{:.question-box}
 
 Ticketbase does not charge anything else apart from the small, flat fee per ticket!
 

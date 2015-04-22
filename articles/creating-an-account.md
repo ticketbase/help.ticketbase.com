@@ -1,10 +1,8 @@
 ---
 title: Creating an account
 section: Accounts
+question: "How can I create a Ticketbase account?"
 ---
-
-**Question:** How can I create a Ticketbase account?
-{:.question-box}
 
 At the [Sign Up] page, you may create a Ticketbase account by using your Facebook account or email.
 

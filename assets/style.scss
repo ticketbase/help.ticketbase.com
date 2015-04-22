@@ -6,3 +6,11 @@ html {
   line-height: 1.6em;
   padding: 70px;
 }
+
+.article-list {
+  h3 a,
+  h3 a:visited {
+    text-decoration: none;
+    color: #333;
+  }
+}

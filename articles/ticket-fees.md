@@ -1,10 +1,8 @@
 ---
 title: Ticket fees
 section: Payments
+question: "How much does Ticketbase charge?"
 ---
-
-**Question:** How much does Ticketbase charge?
-{:.question-box}
 
 Unlike other ticketing platforms, Ticketbase charges a small, flat fee per ticket, regardless of the amount of the ticket. Ticketbase fee depends on the currency used for the event:
 

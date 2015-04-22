@@ -1,10 +1,8 @@
 ---
 title: Payment gateways support
 section: Payments
+question: "Which payment gateways does Ticketbase support?"
 ---
-
-**Question:** Which payment gateways does Ticketbase support?
-{:.question-box}
 
 Ticketbase uses PaPpal and Stripe\* as payment gateways.
 

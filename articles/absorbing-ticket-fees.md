@@ -3,10 +3,8 @@ title: Absorbing ticket fees
 section: Payments
 related:
 - passing-fees-to-attendees
+question: "Is it possible to absorb the fees?"
 ---
-
-**Question:** Is it possible to absorb the fees?
-{:.question-box}
 
 Yes, this is possible. You can do this by doing the following:
 

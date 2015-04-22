@@ -1,10 +1,8 @@
 ---
 title: Capturing attendee details in bulk
 section: Orders
+question: "For people buying tickets in bulk, is it possible to capture the details of all attendees he/she is buying for?"
 ---
-
-**Question:** For people buying tickets in bulk, is it possible to capture the details of all attendees he/she is buying for?
-{:.question-box}
 
 Yes, this is possible. However, keep in mind that the buyer will be responsible for entering the details of the other attendees, if they are buying tickets for others. To activate this feature:
 

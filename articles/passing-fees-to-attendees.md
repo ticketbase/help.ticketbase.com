@@ -1,10 +1,8 @@
 ---
 title: Passing fees to attendees
 section: Payments
+question: "Is it possible to pass the fees to attendees?"
 ---
-
-**Question:** Is it possible to pass the fees to attendees?
-{:.question-box}
 
 Yes, it is possible to pass the fees to the attendees. You can do this by doing the following:
 
@@ -14,4 +12,4 @@ Yes, it is possible to pass the fees to the attendees. You can do this by doing 
 * Then on the main dashboard, under “Fees (beta)”, choose “Purchaser”<br>
   ![](images/purchaser-fees-setting.png)
 
-* Then click “Save Fee Setting”
+* Then click “Save Fee Setting”.

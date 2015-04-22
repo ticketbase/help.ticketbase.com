@@ -1,9 +1,16 @@
 ---
 type: article
 ---
-
 {% include head.html %}
 {% include body.html %}
+
+<h1>{{ page.title }}</h1>
+
+{% if page.question %}
+  <div class='question-box'>
+    <strong>{{ page.question }}</strong>
+  </div>
+{% endif %}
 
 {{ content }}
 

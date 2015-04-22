@@ -1,10 +1,8 @@
 ---
 title: Team access
 section: Events
+question: "Is it possible to give access to some people on my event team?"
 ---
-
-**Question:** Is it possible to give access to some people on my event team?
-{:.question-box}
 
 Yes, this is possible! To invite other event team members to access the event dashboard:
 
