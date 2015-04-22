@@ -13,7 +13,6 @@ exclude:
   - _/Gemfile
   - _/Gemfile.lock
   - CNAME
-  - EXTRAS.md
 sass:
   style: compressed
 
@@ -23,8 +22,8 @@ title: "Ticketbase Help Center"
 
 # Google analytics
 analytics:
-  hostname: "siteurl.com"
-  id: "UA-XXXXXXXX-1"
+  hostname: "help.ticketbase.com"
+  id: "UA-51634688-1"
 
 # Default variables
 defaults:
