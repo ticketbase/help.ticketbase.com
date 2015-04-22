@@ -11,6 +11,11 @@
 <meta content='{{ page.title }}' property='og:title'>
 <meta content='{{ page.title }}' property='twitter:title'>
 <meta content='{{ page.type | default: "article" }}' property='og:type'>
+{% elsif page.category %}
+<title>{{ page.category }} &mdash; {{ site.title }}</title>
+<meta content='{{ page.category }}' property='og:title'>
+<meta content='{{ page.category }}' property='twitter:title'>
+<meta content='{{ page.type | default: "article" }}' property='og:type'>
 {% else %}
 <title>{{ site.title }}</title>
 <meta content='{{ site.title }}' property='og:title'>

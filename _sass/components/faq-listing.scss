@@ -1,0 +1,16 @@
+/*
+ * FAQ listing:
+ * List of FAQ items.
+ */
+
+.faq-listing {
+  h3 {
+    font-size: 1.1em;
+  }
+
+  h3 a,
+  h3 a:visited {
+    color: $black;
+    font-weight: bold;
+  }
+}
