@@ -1,0 +1,10 @@
+<h3>{{ include.section }}</h3>
+{% for page in site.pages %}
+  {% if page.section == include.section %}
+    <li>
+      <a href="{{ base }}{{ page.url }}">
+        <span class='title'>{{ page.title }}</span>
+      </a>
+    </li>
+  {% endif %}
+{% endfor %}

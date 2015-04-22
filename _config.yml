@@ -33,3 +33,12 @@ defaults:
     values:
       layout: "article"
       tags: []
+  - scope:
+      path: "categories"
+    values:
+      layout: "category"
+      tags: []
+
+categories:
+  - Payments
+  - General
