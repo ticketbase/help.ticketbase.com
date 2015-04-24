@@ -1,5 +1,5 @@
 ---
-title: Attendee Check-ins
+title: Attendee check-ins
 section: Events
 question: How can I check-in the attendee on Ticketbase?
 ---
