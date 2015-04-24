@@ -22,4 +22,4 @@ Yes, this is only possible on ["Buyer" and "Ticket"] types of information only.
      
    * Click Save
 
-["Buyer" and "Ticket"]:(collection-of-buyer-information.html) 
+["Buyer" and "Ticket"]:collection-of-buyer-information.html
