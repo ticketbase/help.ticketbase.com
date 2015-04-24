@@ -1,5 +1,5 @@
 ---
-title: Collection of Buyer Information
+title: Collection of buyer information
 section: Events
 question: What information can I collect from the ticket buyers?
 ---
