@@ -19,4 +19,5 @@ In the occasion that the customer did not receive a confirmation email:
    * The email address registered may have been misspelled. You may get their details, check your attendees list and proceed to [edit the customer's details].
 
 [resending the ticket]:resending-tickets.html
+
 [edit the customer's details]:editing-customer-information.html
