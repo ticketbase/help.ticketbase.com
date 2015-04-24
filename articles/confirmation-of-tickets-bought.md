@@ -14,6 +14,6 @@ If they do not have a copy of the ticket printed or on their mobile device, you 
 
 In the occasion that the customer did not receive a confirmation email:
 
-    * The confirmation email may have been sent to the customer's Junk/Spam folder. Ask the customer to check and confirm receipt. If none has been received, you may proceed to resending the ticket.
-    * The email address registered may have been misspelled. You may get their details, check your attendees list and proceed to edit the customer's details.
+   * The confirmation email may have been sent to the customer's Junk/Spam folder. Ask the customer to check and confirm receipt. If none has been received, you may proceed to resending the ticket.
+   * The email address registered may have been misspelled. You may get their details, check your attendees list and proceed to edit the customer's details.
 
