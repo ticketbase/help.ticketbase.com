@@ -1,5 +1,5 @@
 ---
-title: Embeding Tickets
+title: Embedding Tickets
 section: General
 question: Can I embed a ticket widget on my website?
 ---
