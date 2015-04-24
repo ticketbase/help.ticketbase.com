@@ -20,6 +20,17 @@ Yes, this is only possible on ["Buyer" and "Ticket"] types of information only.
    * Fill out the fields under "Question Details"
      ![](http://i.imgur.com/mIxf8qF.png)
      
-   * Click Save
+   * Click Save.
+
+### Types of Questions
+
+The following types of questions can be asked:
+
+   * Text
+   * Paragraph text
+   * Checkboxes
+   * Radio buttons
+   * Drop down
+   * Waiver
 
 ["Buyer" and "Ticket"]:collection-of-buyer-information.html
