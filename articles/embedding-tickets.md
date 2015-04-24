@@ -17,4 +17,3 @@ Yes, tickets can be embedded on websites or blogs through the Ticketbase widget.
    * Choose the event you'd like to create the widget for,
      
    * Then copy the embed code below the widget preview and paste on your website’s code.
-     ![](http://i.imgur.com/mIxf8qF.png)
