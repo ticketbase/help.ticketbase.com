@@ -21,8 +21,8 @@ analytics:
 
 # Upstream
 ticketbase:
-  css: http://www.ticketbase.com/assets/application-3e1da23571928bb0daf2f4b958febddb.css
-  typekit: drm5fgp
+  css: "http://www.ticketbase.com/assets/application-3e1da23571928bb0daf2f4b958febddb.css"
+  typekit: "drm5fgp"
 
 # Default variables
 defaults:
