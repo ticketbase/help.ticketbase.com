@@ -1,5 +1,5 @@
 ---
-title: Creation of Custom Questions
+title: Creation of custom questions
 section: Orders
 question: Is it possible to ask custom questions?
 ---
