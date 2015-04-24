@@ -1,5 +1,5 @@
 ---
-title: Updating Customers
+title: Updating customers
 section: Events
 question: How can I contact my ticket buyers on news and updates about the event?
 ---
