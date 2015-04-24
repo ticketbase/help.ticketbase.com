@@ -1,0 +1,22 @@
+---
+title: Collection of Buyer Information
+tags: [Events, Orders]
+---
+
+**Question:** What information can I collect from the ticket buyers?
+{:.question-box}
+
+###Types of Information
+At Ticketbase, it is important to learn that there are three types of information that can be collected:
+   * _Basic_ (default) - where basic information (first name, last name and email) are asked. Custom questions do not apply in this classification, though.
+   * _Buyer_ - where, regardless of how many tickets are bought, any information about the buyer may be asked. Custom questions apply.
+   * _Ticket_ - where each attendee, all the tickets are intended for, shall be asked for information. Custom questions apply.
+   
+###Choosing the Information Type
+When you've decided on the information you need from the ticket buyers and/or attendees, you may now choose the type:
+   * Go to "Order Form"
+     [https://drive.google.com/open?id=0B5aZ9sIwI-1xYWM2THplRmdhaGc&authuser=0]
+   * Choose the type of information you've decided to collect
+     [https://drive.google.com/open?id=0B5aZ9sIwI-1xMXpaMzg2VnNjNDg&authuser=0]
+   * Mark all the information you’d want to collect under “Available Fields”
+   * Click Save.
