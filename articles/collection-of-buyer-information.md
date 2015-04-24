@@ -14,8 +14,6 @@ At Ticketbase, it is important to learn that there are three types of informatio
 
    * __Ticket__ - where each attendee, all the tickets are intended for, shall be asked for information. Custom questions apply.
 
-you want to [create an account] to the site.
-
 ### Choosing the Information Type
 
 When you've decided on the information you need from the ticket buyers and/or attendees, you may now choose the type:
