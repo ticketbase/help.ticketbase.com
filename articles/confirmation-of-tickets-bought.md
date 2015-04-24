@@ -1,5 +1,5 @@
 ---
-title: Confirmation of Tickets Bought
+title: Confirmation of tickets bought
 section: Orders
 question: When customers buy a ticket, what will they receive?
 ---
