@@ -1,29 +1,28 @@
 # Markdown
-highlighter: pygments
 markdown: kramdown
 kramdown:
   input: GFM
-  hard_wrap: false
 
 # Site settings
 permalink: /:title.html
-exclude:
-  - Makefile
-  - README.md
-  - _/Gemfile
-  - _/Gemfile.lock
-  - CNAME
+exclude: [Makefile, README.md, _, CNAME]
 sass:
   style: compressed
 
 # Site info
-url: "http://help.ticketbase.com"
-title: "Ticketbase Help Center"
+site:
+  url: "http://help.ticketbase.com"
+  title: "Ticketbase Help Center"
 
 # Google analytics
 analytics:
   hostname: "help.ticketbase.com"
   id: "UA-51634688-1"
+
+# Upstream
+ticketbase:
+  css: http://www.ticketbase.com/assets/application-3e1da23571928bb0daf2f4b958febddb.css
+  typekit: drm5fgp
 
 # Default variables
 defaults:
@@ -37,7 +36,3 @@ defaults:
     values:
       layout: "category"
       tags: []
-
-categories:
-  - Payments
-  - General
