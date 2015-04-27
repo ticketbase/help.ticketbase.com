@@ -43,7 +43,7 @@ The following can be edited:
 To edit the above details:
 
    * Go to "Confirmation page"
-   ![]{http://i.imgur.com/3InU2g1.png}
+   ![](http://i.imgur.com/3InU2g1.png)
    
    * Edit the details you want to customize.
    
