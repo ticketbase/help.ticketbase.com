@@ -26,5 +26,7 @@ The Ticketbase app is available on [Android] and [iOS] for free. The app can be 
 
 To scan the attendee's ticket, log-in on the app using your Ticketbase credentials. Tap on the event, and scan the QR code ticket to check-in the attendee. You will then receive a confirmation on the app that the attendee has been checked in. The attendee list shall also be updated on your dashboard.
 
+Always be aware of the message appearing on the app. If a certain ticket has already been checked-in, on the succeeding check-ins, an error message will appear: "Invalid Ticket."
+
 [iOS]:https://itunes.apple.com/us/app/ticketbase/id888718769?mt=8
 [Android]:https://play.google.com/store/apps/details?id=com.ticketbase.android&hl=en
