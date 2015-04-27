@@ -1,6 +1,6 @@
 ---
 title: Confirmation page
-section: orders
+section: Orders
 question: "What does the confirmation page contain?"
 ---
 
