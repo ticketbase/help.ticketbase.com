@@ -8,7 +8,11 @@ Ticketbase supports the following currencies: Australian Dollar, British Pound, 
 
 The default currency of Ticketbase is US Dollar.
 
-**IMPORTANT NOTE:** It is possible to change the currency BEFORE your first ticket sale, even if the ticket is free. **As soon as a ticket is sold, the currency is already set as final.**
+**SOME IMPORTANT NOTES:** 
+
+   * It is possible to change the currency BEFORE your first ticket sale, even if the ticket is free. **As soon as a ticket is sold, the currency is already set as final.**
+
+   * One event supports only one type of currency.
 
 ### Changing currencies
 
