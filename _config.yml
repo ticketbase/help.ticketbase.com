@@ -10,9 +10,8 @@ sass:
   style: compressed
 
 # Site info
-site:
-  url: "http://help.ticketbase.com"
-  title: "Ticketbase Help Center"
+url: "http://help.ticketbase.com"
+title: "Ticketbase Help Center"
 
 # Google analytics
 analytics:
