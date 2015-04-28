@@ -26,4 +26,4 @@ It is also possible to track which of your customers have used certain promo cod
 
 The Order List tracks which promo codes have been used per transaction, while the Attendee List tracks the ticket type and type of access per attendee.
 
-[Order List or the Attendee List]:/list-of-orders-and-attendees.html
+[Order List or the Attendee List]:list-of-orders-and-attendees.html
