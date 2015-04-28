@@ -22,13 +22,6 @@ The monitor the use of the codes:
 
 ### Tracking customer usage of promo codes
 
-It is also possible to track which of your customers have used certain promo codes.
+It is also possible to track which of your customers have used certain promo codes by downloading the [Order List or the Attendee List].
 
-   * Go to "Attendees List"
-   ![](http://i.imgur.com/srKQNzD.png)
-   
-   * Click on "Download as CSV"
-   ![](http://i.imgur.com/XvHesoo.png)
-   
-   * On the CSV file, you will be able to see the codes used per customer under "Ticket Name" and "Ticket Type"
-
+[Order List or the Attendee List](/list-of-orders-and-attendees.html)
