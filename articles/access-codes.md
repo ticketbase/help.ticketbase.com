@@ -16,6 +16,7 @@ The organizer can control the following:
    
    * **Duration** - the inclusive dates of code validity can also be controlled.
    
+**IMPORTANT NOTE:** Codes should be alpha-numberic. Ticketbase currently does not support spaces or symbols.
 
 ### Adding access codes
 
