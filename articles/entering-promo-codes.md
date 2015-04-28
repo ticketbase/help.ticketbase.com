@@ -1,5 +1,5 @@
 ---
-title: Entering codes
+title: Entering promo codes
 section: Orders
 question: "How can I enter access or discount codes?"
 ---
@@ -8,7 +8,7 @@ Ticketbase supports access codes and discount codes, which can be given by organ
 
 Recipients can use the access codes or discount codes on the event page to avail of free access or discounts on the tickets:
 
-   * Enter the code on the field and then click apply.
+   * Enter the promo code on the field and then click apply.
    ![](http://i.imgur.com/uUsB11b.png)
    
    * Customer will then be led to the page to complete the order.
