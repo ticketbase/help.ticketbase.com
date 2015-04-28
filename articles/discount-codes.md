@@ -18,7 +18,7 @@ The organizer can control the following:
    
    * **Application on tickets** - the organizer can also specify which tickets certain codes may apply to.
    
-NOTE: It is possible to create different codes with different applications/attributes.
+**IMPORTANT NOTE:** It is possible to create different codes with different applications/attributes. Also, codes should be alpha-numberic. Ticketbase currently does not support spaces or symbols.
 
 ### Adding discount codes
 
