@@ -1,5 +1,5 @@
 ---
-title: Tracking codes
+title: Tracking promo codes
 section: Orders
 question: "How can I track the promo codes that have already been used?"
 ---
