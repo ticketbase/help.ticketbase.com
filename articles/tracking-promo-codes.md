@@ -22,6 +22,6 @@ The monitor the use of the codes:
 
 ### Tracking customer usage of promo codes
 
-It is also possible to track which of your customers have used certain promo codes by downloading the [Order List or the Attendee List].
+It is also possible to track which of your customers have used certain promo codes by downloading the {Order List or the Attendee List}.
 
-[Order List or the Attendee List](/list-of-orders-and-attendees.html)
+{Order List or the Attendee List}(/list-of-orders-and-attendees.html)
