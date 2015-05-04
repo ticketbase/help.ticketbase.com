@@ -1,5 +1,5 @@
 ---
-title: Proposals
+title: Partnership proposals
 section: General
 question: Who can I email for possible partnership proposals?
 ---
