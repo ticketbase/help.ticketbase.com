@@ -9,15 +9,15 @@ Apart from public events, it is also possible to create password protected or in
 
 ### Create private events
 
-    * Go to "Edit Details"
-    ![](http://i.imgur.com/IoNuZ5K.png)
+   * Go to Edit Details
+   ![](http://i.imgur.com/IoNuZ5K.png)
     
-    * Choose "Registration & Privacy" to view all options.
-    ![](http://i.imgur.com/UL7RyIt.png)
+   * Choose "Registration & Privacy" to view all options.
+   ![](http://i.imgur.com/UL7RyIt.png)
     
-    * Under "Privacy" choose "Private Page" to manage event page access.
-    ![](http://i.imgur.com/1Qdg57W.png)
-    
+   * Under "Privacy" choose "Private Page" to manage event page access.
+   ![](http://i.imgur.com/1Qdg57W.png)
+
 
 ### Password protecting events (optional)
 
