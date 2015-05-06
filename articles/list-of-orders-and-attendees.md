@@ -22,7 +22,7 @@ There are two ways to access the event's *Order List*:
 On this view, you will be able to see select details of each order:
    * **Order #** - a unique code for each order.
 
-   * **Source** - which refers to the [source of the payment]. /* 
+   * **Source** - which refers to the [source of the payment]. \* 
 
    * **Transaction #** - a unique transaction number for paid tickets. This will be blank if the ticket is free.
 
@@ -73,7 +73,7 @@ The Attendee List on the event dashboard shall show the following information:
 
    * **Ticket ID** - refers to the unique ID number per ticket, tagged to specific attendees per event.
 
-   * **Order Token** - a unique code for each order. /**
+   * **Order Token** - a unique code for each order. \**
 
    * **Name** - name of the registered attendee/ticket owner.
 
@@ -94,7 +94,7 @@ A detailed Attendee List can also be downloaded, which will contain the followin
 
    * **Ticket Price** - indicates the price paid per ticket.
 
-   * **Transaction Source** - which refers to the [source of the payment]. /*
+   * **Transaction Source** - which refers to the [source of the payment]. \*
 
    * **Transaction Date** - refers to the date and time of the ticket order.
 
@@ -110,8 +110,8 @@ To download the detailed Attendee List:
    
    * Open the CSV file as a spreadsheet.
 
-/* *Free tickets will be tagged as "Free".*
-/** *Multiple ticket numbers can be tagged to one order code/token.*
+\* *Free tickets will be tagged as "Free".*
+\** *Multiple ticket numbers can be tagged to one order code/token.*
 
 [event dashboard]:event-dashboard.html
 [source of the payment]:payment-gateways.html
