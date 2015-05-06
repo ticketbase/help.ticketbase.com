@@ -17,7 +17,8 @@ At a glance, the main Ticketbase dashboard contains several important details ab
    
    * ***Visits*** - refers to the number of people who has visited the event page in the past 7 days, and the number of unique visitors.
    
-   * ***Recent Orders*** - this list shows the last 10 orders/transactions.
+   * ***Recent Orders*** - this list shows the last 10 [orders/transactions]. To view the complete list of orders, click on "View all".
 
 [promo or discount codes]:entering-promo-codes.html
 [discounted ticket]:entering-promo-codes.html
+[orders/transactions]:list-of-orders-and-attendees.html
