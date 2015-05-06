@@ -4,7 +4,7 @@ section: Events
 question: "How can I access and/or download the order list and/or attendee list?"
 ---
 
-The **Order List** details the each transaction that has occurred for your event, while the **Attendee List** details all the attendees.
+The **Order List** details each transaction that has occurred for the event, while the **Attendee List** details all the attendees.
 
 **NOTE:** It is possible that the number of orders and attendees will not match, since a customer can purchase 1 or more tickets per order, depending on the limits set by the organizer.
 
