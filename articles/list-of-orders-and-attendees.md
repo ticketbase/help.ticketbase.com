@@ -19,7 +19,9 @@ There are two ways to access the event's *Order List*:
    * Or by clicking "Orders" under "Sales & Attendees"
    ![](http://i.imgur.com/bsEAQSi.png)
 
+
 On this view, you will be able to see select details of each order:
+
    * **Order #** - a unique code for each order.
 
    * **Source** - which refers to the [source of the payment]. \* 
@@ -38,7 +40,9 @@ On this view, you will be able to see select details of each order:
 
    * **Status** - refers to the transfer of funds from customer to event organizer.
 
+
 You may also [resend the email confirmation and PDF ticket] from this page.
+
 
 A detailed list of orders, which can be downloaded, will contain the following, apart from the above information:
 
@@ -57,8 +61,6 @@ A detailed list of orders, which can be downloaded, will contain the following, 
    * **Manual Payment Type** - refers to the type of payment for manually attended customers.
 
 
-
-
 To download the list, on the Orders page:
    
    * Click on "Download as CSV"
@@ -69,7 +71,7 @@ To download the list, on the Orders page:
 
 ### Accessing and downloading the Attendee List
 
-The Attendee List on the event dashboard shall show the following information:
+The **Attendee List** on the event dashboard shall show the following information:
 
    * **Ticket ID** - refers to the unique ID number per ticket, tagged to specific attendees per event.
 
@@ -83,7 +85,8 @@ The Attendee List on the event dashboard shall show the following information:
 
    * **Status** - shows if the attendee has already [checked-in] on the event.
 
-To browse select details of the  *Attendee List* on the dashboard, click on "Attendee List".
+
+To browse select details of the **Attendee List** on the dashboard, click on "Attendee List".
 
    ![](http://i.imgur.com/srKQNzD.png)
 
@@ -109,6 +112,7 @@ To download the detailed Attendee List:
    ![](http://i.imgur.com/XvHesoo.png)
    
    * Open the CSV file as a spreadsheet.
+
 
 \* *Free tickets will be tagged as "Free".*
 \** *Multiple ticket numbers can be tagged to one order code/token.*
