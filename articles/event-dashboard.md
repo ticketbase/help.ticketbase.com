@@ -5,7 +5,7 @@ question: "What information does the event dashboard provide?"
 ---
 
 The main event dashboard can be accessed by clicking "Dashboard" under "Event".
-![](http://i.imgur.com/jLAJItV.png
+![](http://i.imgur.com/jLAJItV.png)
 
 At a glance, the main Ticketbase dashboard contains several important details about the current status of your event.
 
