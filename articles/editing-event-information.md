@@ -19,7 +19,7 @@ You can edit the following:
 
 ### Understanding the event description editor
 
-You may format your event description according to your desired format. 
+You may enter the event description according to your desired format. 
 
 The Ticketbase WYSIWYG (what-you-see-is-what-you-get) editor ensures that when you're entering the formatted event information, you will instantly see how it will look like on the event page.
 
