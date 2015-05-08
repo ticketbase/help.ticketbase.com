@@ -25,4 +25,7 @@ The Ticketbase WYSIWYG (what-you-see-is-what-you-get) editor ensures that when y
 
 ![](http://i.imgur.com/VHU0MQA.png)
 
+Click "Save" when you're done editing the information.
+![](http://i.imgur.com/hBhe1Ua.png)
+
 ["Edit Details"]:editing-event-details.html
