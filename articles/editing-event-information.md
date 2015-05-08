@@ -1,5 +1,5 @@
 ---
-title: Editing event information
+title: Editing the event information
 section: Events
 question: How can I edit the information about my event?
 ---
