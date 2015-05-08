@@ -4,11 +4,9 @@ section: Events
 question: How can I edit the information about my event?
 ---
 
-To be able to edit your event information, you have to go to ["Edit Details"].
+The event information answers the "what" and "why" about your event. To edit your event information, go to ["Edit Details"]. 
 
-The event information answers the "what" and "why" about your event.
-
-The following can be edited about your event's information:
+You can edit the following:
 
    * **Event Title** - or the name of your event.
 
@@ -23,7 +21,7 @@ The following can be edited about your event's information:
 
 You may format your event description according to your desired format. 
 
-The Ticketbase WYSIWIG (what-you-see-is-what-you-get) editor ensures that when you're entering the formatted event information, you will instantly get to see how it will look like on the event page.
+The Ticketbase WYSIWYG (what-you-see-is-what-you-get) editor ensures that when you're entering the formatted event information, you will instantly see how it will look like on the event page.
 
 ![](http://i.imgur.com/VHU0MQA.png)
 
