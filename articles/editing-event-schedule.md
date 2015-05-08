@@ -12,5 +12,8 @@ The event schedule answers the "when" of your event. To be able to edit your eve
 
 The "Time Zone" of the event should also be consistent with the time zone of the [event location].
 
+Click "Save" when you're done editing the schedule.
+![](http://i.imgur.com/hBhe1Ua.png)
+
 ["Edit Details"]:editing-event-details.html
 [event location]:editing-event-location.html
