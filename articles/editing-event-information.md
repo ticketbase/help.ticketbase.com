@@ -12,7 +12,7 @@ The following can be edited about your event's information:
 
    * **Event Title** - or the name of your event.
 
-   * **Event Slug** - instead of the default event number (example: www.ticketbase.com/events/1339, where 1339 refers to 'slug'), it is possible to edit the slug to the title of your event (www.ticketbase.com/events/**youreventtitle**).
+   * **Event Slug** - instead of the default event event title (example: www.ticketbase.com/events/event-title, where 'event-title' refers to 'slug'), it is possible to edit the slug (example: www.ticketbase.com/events/**event**), to make your communications consistent.
 
    * **Event description** - this section tells your target audience more about your event.
 
