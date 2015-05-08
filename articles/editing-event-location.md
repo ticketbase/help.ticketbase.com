@@ -62,8 +62,8 @@ It is important to remember that the location pin will always be at the center o
    * Zoom out by clicking the "-" button on the map, until you see the whole map.
    ![](http://i.imgur.com/wq0ywcy.png)
    
-   * Drag the map around to locate the venue. You may zoom in and out during the process.
-   ![](http://i.imgur.com/wq0ywcy.png)
+   * Drag the map around to locate the venue. You may zoom in ("+") and out ("-") during the process.
+   ![](http://i.imgur.com/BrmbStz.png)
    
    * Click "Save"
 
