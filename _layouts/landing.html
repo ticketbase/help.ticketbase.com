@@ -16,11 +16,13 @@ type: website
           <h1>Help Center</h1>
         </div>
         <div class="article-format">
-          {% include category-index.html header=true section='Payments' %}
+          
           {% include category-index.html header=true section='General' %}
+          {% include category-index.html header=true section='Events' %}          
+          {% include category-index.html header=true section='Payments' %}          
+          {% include category-index.html header=true section='Orders' %}          
           {% include category-index.html header=true section='Accounts' %}
-          {% include category-index.html header=true section='Orders' %}
-          {% include category-index.html header=true section='Events' %}
+          
         </div>
       </div>
     </div>
