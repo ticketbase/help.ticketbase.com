@@ -1,10 +1,10 @@
 ---
 title: Passing fees to attendees
 section: Payments
-question: "Is it possible to pass the fees to attendees?"
+question: "Is it possible to pass the Ticketbase fee to attendees?"
 ---
 
-Yes, it is possible to pass the fees to the attendees. You can do this by doing the following:
+Yes, it is possible to pass the Ticketbase fees to the attendees. You can do this by doing the following:
 
 * Click “Tickets” on the left column of the dashboard.
   ![](images/sell-tickets-menu.png)
