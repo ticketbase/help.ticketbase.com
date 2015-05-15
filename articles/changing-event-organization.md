@@ -1,6 +1,6 @@
 ---
 title: Changing the event organizer
-section: Accounts
+section: Events
 question: "How do I change the organization handling the event?"
 ---
 
