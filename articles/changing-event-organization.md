@@ -16,6 +16,8 @@ If the [organization] has already been created, you may just choose which organi
 If the organization hasn't been created yet, choose "None", and enter the name and description.
 ![](http://i.imgur.com/0g8XnBX.png)
 
+Click "Save" to save changes.
+
 
 [Organization]:creating-organizations.html
 ["Edit Details"]:editing-event-details.html
