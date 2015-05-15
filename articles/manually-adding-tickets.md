@@ -1,5 +1,5 @@
 ---
-title: Manually adding ticket offline ticket transactions
+title: Manually adding offline ticket transactions
 section: Payments
 question: "How can I add ticket buyers that purchased from me offline?"
 ---
@@ -17,3 +17,6 @@ Event organizers may accept payments offline, and manually add them to the event
    
    * Enter the other information about the transaction
    ![](http://i.imgur.com/kqREh8w.png)
+
+   * Click on "Create Manual Order"
+   ![](http://i.imgur.com/jPDfAdA.png)
