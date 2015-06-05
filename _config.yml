@@ -20,7 +20,7 @@ analytics:
 
 # Upstream
 ticketbase:
-  css: "http://www.ticketbase.com/assets/application-3146c4ea9ec2ced9acea6479c7bbbf9b.css"
+  css: "http://www.ticketbase.com/assets/application-a6dc98914694af9eb385d9f51937b1c3.css"
   typekit: "drm5fgp"
 
 # Default variables
