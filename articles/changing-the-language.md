@@ -1,7 +1,7 @@
 ---
 title: Changing the language
 section: Events
-question: How can I change the launguage of the headers or section labels of the event page?
+question: How can I change the language of the headers or section labels of the event page?
 ---
 
 The default language of Ticketbase is English. The following languages are also available: Czech, French, Indonesian, Italian, Japanese, Portuguese, Russian, Spanish, Turkish and Chinese.
