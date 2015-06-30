@@ -10,7 +10,7 @@ There are two ways to access and edit the registration and privacy options:
    
    ![](http://i.imgur.com/uu6h3gR.png)
    
-   * * Under "Event" on the left side of the dashboard, click on "Registration & Privacy"
+   * Under "Event" on the left side of the dashboard, click on "Registration & Privacy"
    
    ![](http://i.imgur.com/WiSLyBA.png)
 
