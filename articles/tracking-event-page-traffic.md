@@ -1,5 +1,5 @@
 ---
-title: Tracking Event Page Traffic
+title: Tracking event page traffic
 section: General
 question: "How can I track traffic in my event page by using Google Analytics?"
 ---
