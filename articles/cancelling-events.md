@@ -22,7 +22,12 @@ Then, on the main dashboard, click on "More Options."
 
 
 Click on "Cancel event"
+
 ![](http://i.imgur.com/bZzbM28.png)
+
+
+A pop-up notification will appear. Click "Ok" to cancel the event.
+![](http://i.imgur.com/CgK1sg6.png)
 
 
 [update your customers]:updating-customers.html
