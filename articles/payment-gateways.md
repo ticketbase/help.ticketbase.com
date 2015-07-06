@@ -28,7 +28,14 @@ Choose which account you would like to add. Note that one Ticketbase account wil
 Follow the respective log-in procedures of the payment gateways to connect your accounts.
 
 
+### Payment gateway charges
+
+Paypal and Stripe charges differ from country to country. We recommend to visit their respective websites to check their fees.
+
+For Stripe: https://stripe.com/us/pricing For Paypal: https://www.paypal.com/us/webapps/mpp/paypal-fees
+
+
 \* Stripe support is only available in 18 countries (as of March 2015): Australia, Canada, Ireland, United Kingdom, United States, Belgium (Beta), Finland (Beta), France (Beta), Germany (Beta), Luxembourg (Beta), Netherlands (Beta), Spain (Beta), Denmark (Beta), Norway (Beta), Sweden (Beta), Austria (Beta), Italy (Beta), Switzerland (Beta).
 
-![PayPal](www.paypal.com)
-[Stripe]:www.stripe.com
+[PayPal]:http://paypal.com
+[Stripe]:http://stripe.com
