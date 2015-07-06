@@ -30,9 +30,7 @@ Follow the respective log-in procedures of the payment gateways to connect your 
 
 ### Payment gateway charges
 
-Paypal and Stripe charges differ from country to country. We recommend to visit their respective websites to check their fees.
-
-For Stripe: https://stripe.com/us/pricing For Paypal: https://www.paypal.com/us/webapps/mpp/paypal-fees
+The charges of the payment gateways differ from country to country. We recommend you to visit [PayPal] or [Stripe] to check their fees.
 
 
 \* Stripe support is only available in 18 countries (as of March 2015): Australia, Canada, Ireland, United Kingdom, United States, Belgium (Beta), Finland (Beta), France (Beta), Germany (Beta), Luxembourg (Beta), Netherlands (Beta), Spain (Beta), Denmark (Beta), Norway (Beta), Sweden (Beta), Austria (Beta), Italy (Beta), Switzerland (Beta).
