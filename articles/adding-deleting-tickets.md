@@ -63,6 +63,11 @@ To delete tickets, go to the Ticket Type panel, click on the ticket type you wan
 ![](http://i.imgur.com/pTSZdEp.png)
 
 
+A pop-up notification will appear. Click "Ok" to delete the ticket type.
+
+![](http://i.imgur.com/g3NHcHO.png)
+
+
 ### Additional notes
 
    * When setting ticket prices, consider if you're going to [absorb the fees] or [passing fees to attendees].
