@@ -1,7 +1,7 @@
 ---
-title: Adding tickets
+title: Adding and deleting tickets
 section: Events
-question: "How can I create tickets for my event?"
+question: "How can I create or delete event tickets?"
 ---
 
 It's possible to sell more than one ticket type on Ticketbase. To start creating tickets, go to "Tickets", under "Sell" which can be found on the left column of the dashboard.
@@ -54,6 +54,15 @@ The following details should be entered:
 Remember to click "Save" for all changes to take effect.
 
 
+### Deleting tickets
+
+Although not recommended if an [event is published] and running, you may delete a ticket type any time. Deleting a ticket won't affect the list of orders, and should be honored during the event unless otherwise the [customer has been refunded] or the ticket voided.
+
+To delete tickets, go to the Ticket Type panel, click on the ticket type you want to delete, and then click on "Delete this" which can be found on the bottom right corner.
+
+![](http://i.imgur.com/pTSZdEp.png)
+
+
 ### Additional notes
 
    * When setting ticket prices, consider if you're going to [absorb the fees] or [passing fees to attendees].
@@ -61,8 +70,6 @@ Remember to click "Save" for all changes to take effect.
    * Also, note the [currency] of your ticket prices.
    
    * It's possible to update ticket type details even after the event and ticket are published. On the Tickets Types panel, choose the ticket you want to edit and change accordingly.
-   
-   * Although not recommended if an [event is published] and running, you may delete a ticket type any time. Deleting a ticket won't affect the list of orders, and should be honored during the event unless otherwise the [customer has been refunded] or the ticket voided.
    
    * [Discount codes] will not take effect on tickets that are not available to the public.
    
