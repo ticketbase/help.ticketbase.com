@@ -35,7 +35,7 @@ Click on "Flexible" to edit the donation feature. Click "Save" to save changes.
 
 To accept multiple types of donations, you may add options by:
 
-   * Cliking on "Add New"
+   * Clicking on "Add New"
    
    ![](http://i.imgur.com/dV2dXJ8.png)
    
