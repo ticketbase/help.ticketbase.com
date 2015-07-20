@@ -1,5 +1,5 @@
 ---
-title: Reseting passwords and log-in details
+title: Resetting passwords and log-in details
 section: Accounts
 question: "How can I reset my password or log-in details?"
 ---
