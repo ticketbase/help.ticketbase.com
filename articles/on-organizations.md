@@ -1,6 +1,6 @@
 ---
 title: Adding, editing, removing and changing organizations
-section: Events
+section: Accounts
 question: "How do I add/change/edit the organization handling the event?"
 ---
 
