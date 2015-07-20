@@ -14,7 +14,7 @@ You may also reset your log-in details on your dashboard. On the upper right cor
 ![](http://i.imgur.com/XAqnmry.png)
 
 
-Enter the account details, and clicke "Update."
+Enter the account details, and click "Update."
 
 ![](http://i.imgur.com/UhfmdRO.png)
 
