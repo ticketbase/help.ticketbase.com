@@ -10,9 +10,11 @@ For now, ticket prices may either be inclusive of tax charges or additional [fee
 
 ### Adding tax information
 
-   ![](http://i.imgur.com/Hzjdjcj.png)
+   ![](http://i.imgur.com/mVqfo5v.png)
    
-   Enter your tax ID, and indicate if you're a non-profit organization. Click "Save" in order to save changes.
+   Enter your tax % per sale, tax ID, and indicate if you're a non-profit organization. 
+   
+   Click "Save" in order to save changes.
 
 
 
