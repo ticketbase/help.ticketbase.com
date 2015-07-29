@@ -66,7 +66,7 @@ Choose which event you want to import, and click "Import this event".
 
 
 
-[NationBuilder]:www.nationbuilder.com
+[NationBuilder]: www.nationbuilder.com
 [creation of tickets]:adding-deleting-tickets.html 
 [access codes]:access-codes.html
 [discount codes]:discount-codes.html
