@@ -66,7 +66,7 @@ Choose which event you want to import, and click "Import this event".
 
 
 
-[NationBuilder]: www.nationbuilder.com
+[NationBuilder]:http://www.nationbuilder.com
 [creation of tickets]:adding-deleting-tickets.html 
 [access codes]:access-codes.html
 [discount codes]:discount-codes.html
@@ -74,8 +74,8 @@ Choose which event you want to import, and click "Import this event".
 [Event page customization]:event-page-customization.html
 [Accept payments]:payment-gateways.html
 [Low ticket fees]:ticket-fees.html
-[Sign-in to your NationBuilder]:www.nationbuilder.com/nation_login
-[Create an event on NationBuilder]:www.nationbuilder.com/setting_up_an_event
-[ticketbase.com/nationbuilder/sign_in]:www.ticketbase.com/nationbuilder/sign_in
+[Sign-in to your NationBuilder]:http://www.nationbuilder.com/nation_login
+[Create an event on NationBuilder]:http://www.nationbuilder.com/setting_up_an_event
+[ticketbase.com/nationbuilder/sign_in]:http://www.ticketbase.com/nationbuilder/sign_in
 [event dashboard]:event-dashboard.html
-[Ticketbase account dashboard]:www.ticketbase.com/dashboard
+[Ticketbase account dashboard]:http://www.ticketbase.com/dashboard
