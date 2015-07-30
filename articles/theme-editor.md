@@ -76,7 +76,7 @@ Click on "Event logo" to upload the logo. You may opt to show the logo by enabli
 ![](http://i.imgur.com/e6fPmef.png)
 
 
-To change the background image, go to "Header Image"
+To change the background image, go to "Header Image" and upload the image by clicking on "Image."
 
 ![](http://i.imgur.com/88iIFXy.png)
 
