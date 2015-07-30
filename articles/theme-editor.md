@@ -97,7 +97,7 @@ You may also add sections like speakers and sponsors lists by clicking on the "+
 
 ### Viewing the edited page and saving
 
-On the upper right corner of the theme editor screen, click on "Preview" to see the changes, and "Save" to save the edits you've made.
+On the upper right corner of the theme editor screen, click on "Preview" to see the changes full screen, and "Save" to save the edits you've made.
 
 ![](http://i.imgur.com/yM27Uh2.png)
 
