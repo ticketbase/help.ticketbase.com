@@ -71,7 +71,7 @@ Choose which event you want to import, and click "Import this event".
 [access codes]:access-codes.html
 [discount codes]:discount-codes.html
 [Multi-user access]:team-access.html
-[Event page customization]:event-page-customization.html
+[Event page customization]:theme-editor.html
 [Accept payments]:payment-gateways.html
 [Low ticket fees]:ticket-fees.html
 [Sign-in to your NationBuilder]:http://www.nationbuilder.com/nation_login
