@@ -26,6 +26,8 @@ Unlike other ticketing platforms, Ticketbase charges a small, flat fee per ticke
 
 As soon as the transaction takes place, Ticketbase already takes the flat fee, and transfers the payment to the organizer's [account].
 
+Ticketbase does not charge anything else apart from the small, flat fee per ticket.
+
 The organizer may opt to absorb the ticket fees or let the customers shoulder them.
 
 
