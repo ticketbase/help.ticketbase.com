@@ -4,9 +4,11 @@ section: Payments
 question: "What currencies are supported by Ticketbase?"
 ---
 
-Ticketbase supports the following currencies: Australian Dollar, British Pound, Canadian Dollar, Euro, Indonesian Rupiah, Isralei Shekel, Philippine Peso, Singapore Dollar, Swedish Krona, Thai Baht and US Dollar.
+Ticketbase supports the following currencies: Australian Dollar, British Pound, Canadian Dollar, Euro, Hong Kong Dollar, Indonesian Rupiah, Isralei Shekel, Japanese Yen, Mexican Peso, New Taiwan Dollar, Philippine Peso, Singapore Dollar, Swedish Krona, Thai Baht and US Dollar.
 
-The default currency of Ticketbase is US Dollar.
+The default currency of Ticketbase is US Dollar. 
+
+The [flat fee] charged by Ticketbase will depend on the currency used for the event.
 
 **SOME IMPORTANT NOTES:** 
 
@@ -25,3 +27,4 @@ Given the currencies above, you may change the currency your event supports:
    ![](http://i.imgur.com/16aT6i2.png)
 
 
+[flat fee]:ticket-fees.html
