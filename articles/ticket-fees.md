@@ -24,4 +24,28 @@ Unlike other ticketing platforms, Ticketbase charges a small, flat fee per ticke
 | New Taiwan Dollar | NT$30.00 per ticket    |
 | Hong Kong Dollar  | $7.50 per ticket       |
 
+As soon as the transaction takes place, Ticketbase already takes the flat fee, and transfers the payment to the organizer's [account].
+
+The organizer may opt to absorb the ticket fees or let the customers shoulder them.
+
+
+### Absorbing or passing the ticket fees
+
+* Click “Tickets” on the left column of the [event dashboard].
+
+  ![](images/sell-tickets-menu.png)
+
+* Then on the main dashboard, under “Fees (beta)”, choose “Event creator”, to absorb the ticket fees, or "Purchaser" for the customers to shoulder the ticket fees.
+
+  ![](images/purchaser-fees-setting.png)
+
+* Then click “Save Fee Setting”
+
+
+
+
+
+
 [currency]:supported-currencies.html
+[account]:payment-gateways.html
+[event dashboard]:event-dashboard.html
