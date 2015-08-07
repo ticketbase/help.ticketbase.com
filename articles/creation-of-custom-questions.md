@@ -6,6 +6,8 @@ question: Is it possible to ask custom questions?
 
 Yes, this is only possible on ["Buyer" and "Ticket"] types of information only.
 
+Answers to the custom questions can be found on the downloaded [Attendee List].
+
 ### Creating Custom Questions
 
    * Go to "Order Form"
@@ -34,3 +36,4 @@ The following types of questions can be asked:
    * Waiver
 
 ["Buyer" and "Ticket"]:collection-of-buyer-information.html
+[Attendee List]:list-of-orders-and-attendees.html
