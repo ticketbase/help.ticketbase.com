@@ -16,8 +16,8 @@ In the occasion that the customer did not receive the confirmation email and tic
 * Search for the email address, order reference number or transaction reference number on the main dashboard. 
 ![](http://i.imgur.com/TUYyjYO.png)
 
-* When found, click on the paper plane icon to resend the ticket.
-![](http://i.imgur.com/OqJsNw8.png)
+* When found, click on the "Resend Confirmation Email" to resend the ticket.
+![](http://i.imgur.com/WhmsGq1.png)
 
 * Confirm if the customer received it. If not, you may try again or opt to send the ticket manually.
 
