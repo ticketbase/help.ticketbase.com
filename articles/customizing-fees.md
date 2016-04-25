@@ -8,7 +8,7 @@ Given our small, flat fee per ticket, organizers may choose to either [absorb th
 
 Organizers can also opt to shoulder fees, like taxes, by making the ticket prices inclusive of taxes, or charge them separately, on top of the ticket prices.
 
-### Managing fees
+### Managing fees (We have temporarily disabled this feature.)
 
    * Click on the drop down button beside your name on the upper right corner of the screen, and choose "Manage Fees"
    
